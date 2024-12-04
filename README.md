@@ -17,9 +17,9 @@ https://sbmi2015.na.icar.cnr.it/SBIdataset.html
 ### BMD of video data
 Run 'demo_tensor_bmd' file. We will obtain the tensor BM-rank 5 decomposition results of the car video.
 
-![img1](https://github.com/user-attachments/assets/5001faec-eef7-4c77-8087-fb460b96c133)
+![img1](https://github.com/user-attachments/assets/e75f36ab-ca9f-4bd0-9e74-927961e0a241)
+
 Comparison of the BMD reconstructed frames with the slice-wise SVD reconstructed frame (\# 60).
 
-
-![img2](https://github.com/user-attachments/assets/e356f069-3455-42be-b56a-43362dd6c7f4)
+![img2](https://github.com/user-attachments/assets/9725db47-0a8b-4334-8361-ba446e64679c)
 Comparison of the BMD reconstructed background/foreground frames with the SS-SVD reconstructed reconstructed background/foreground frames.
