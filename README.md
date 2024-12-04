@@ -14,3 +14,12 @@ Given a tensor 𝓧 of size $$m\times p \times n$$, its BM-rank $$\ell$$ decompo
 - Datasets "Hall and Monitor", "Human Body", and "IBM Test" can be accessed at the "Scene Background Initialization (SBI) dataset" website: 
 https://sbmi2015.na.icar.cnr.it/SBIdataset.html 
 
+### BMD of video data
+Run 'demo_tensor_bmd' file. We will obtain the tensor BM-rank 5 decomposition results of the car video.
+
+![img1](https://github.com/user-attachments/assets/5001faec-eef7-4c77-8087-fb460b96c133)
+Comparison of the BMD reconstructed frames with the slice-wise SVD reconstructed frame (\# 60).
+
+
+![img2](https://github.com/user-attachments/assets/e356f069-3455-42be-b56a-43362dd6c7f4)
+Comparison of the BMD reconstructed background/foreground frames with the SS-SVD reconstructed reconstructed background/foreground frames.
