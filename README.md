@@ -8,4 +8,5 @@ Given a tensor 𝓧 of size $$m\times p \times n$$, its BM-rank $$\ell$$ decompo
 
 <img width="578" alt="Screenshot 2024-12-04 at 4 24 26 PM" src="https://github.com/user-attachments/assets/2c16b701-796d-46b9-95d9-dc8f25291680">
 
-`test code block`
+
+
