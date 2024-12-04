@@ -21,8 +21,8 @@ We will obtain the tensor BM-rank 5 decomposition results of the car video.
 
 <img src="https://github.com/user-attachments/assets/e75f36ab-ca9f-4bd0-9e74-927961e0a241" width=50% height=50%>
 
-Comparison of the BMD reconstructed frames with the slice-wise SVD reconstructed frame (\# 60).
+Fig.1. Comparison of the BMD reconstructed frames with the slice-wise SVD reconstructed frame (\# 60).
 
-<img src="https://github.com/user-attachments/assets/9725db47-0a8b-4334-8361-ba446e64679c" width=40% height=40%>
+<img src="https://github.com/user-attachments/assets/9725db47-0a8b-4334-8361-ba446e64679c" width=25% height=25%>
 
-Comparison of the BMD reconstructed background/foreground frames with the SS-SVD reconstructed reconstructed background/foreground frames.
+Fig.2. Comparison of the BMD reconstructed background/foreground frames with the SS-SVD reconstructed reconstructed background/foreground frames.
